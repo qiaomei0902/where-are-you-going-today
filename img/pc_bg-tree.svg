@@ -1,0 +1,30 @@
+<svg width="1440" height="306" viewBox="0 0 1440 306" fill="none" xmlns="http://www.w3.org/2000/svg">
+<ellipse cx="198.5" cy="108" rx="45.5" ry="69" fill="#CEDFA3"/>
+<ellipse cx="198.5" cy="177.5" rx="52.5" ry="69.5" fill="#CEDFA3"/>
+<line x1="199" y1="150" x2="199" y2="305" stroke="#BCAB9A" stroke-width="10" stroke-linecap="round"/>
+<ellipse cx="1420.5" cy="108" rx="45.5" ry="69" fill="#CEDFA3"/>
+<ellipse cx="1420.5" cy="177.5" rx="52.5" ry="69.5" fill="#CEDFA3"/>
+<line x1="1421" y1="150" x2="1421" y2="305" stroke="#BCAB9A" stroke-width="10" stroke-linecap="round"/>
+<ellipse cx="588.5" cy="116.393" rx="45.5" ry="70" fill="#CEDFA3"/>
+<ellipse cx="562.5" cy="190.393" rx="42.5" ry="57" fill="#CEDFA3"/>
+<ellipse cx="615.5" cy="190.393" rx="42.5" ry="57" fill="#CEDFA3"/>
+<rect x="562" y="202.393" width="57" height="45" fill="#CEDFA3"/>
+<line x1="591" y1="182.393" x2="591" y2="305.393" stroke="#BCAB9A" stroke-width="10" stroke-linecap="round"/>
+<ellipse cx="790.637" cy="132.802" rx="35.2188" ry="53.4087" fill="#CEDFA3"/>
+<ellipse cx="790.637" cy="186.598" rx="40.637" ry="53.7957" fill="#CEDFA3"/>
+<line x1="791" y1="183.393" x2="791" y2="305.393" stroke="#BCAB9A" stroke-width="10" stroke-linecap="round"/>
+<ellipse cx="25.5" cy="121.786" rx="40.3" ry="61.1143" fill="#CEDFA3"/>
+<ellipse cx="25.5" cy="183.343" rx="46.5" ry="61.5571" fill="#CEDFA3"/>
+<line x1="24.0497" y1="178.955" x2="24.0497" y2="320" stroke="#BCAB9A" stroke-width="10" stroke-linecap="round"/>
+<ellipse cx="362.176" cy="162.86" rx="32.2195" ry="48.8604" fill="#CEDFA3"/>
+<ellipse cx="362.176" cy="212.075" rx="37.1764" ry="49.2144" fill="#CEDFA3"/>
+<line x1="362.019" y1="209.569" x2="362.019" y2="320.328" stroke="#BCAB9A" stroke-width="10" stroke-linecap="round"/>
+<ellipse cx="979.5" cy="93.8934" rx="42.5" ry="69.5" fill="#CEDFA3"/>
+<ellipse cx="979.5" cy="183.893" rx="49.5" ry="69.5" fill="#CEDFA3"/>
+<line x1="980" y1="150.393" x2="980" y2="305.393" stroke="#BCAB9A" stroke-width="10" stroke-linecap="round"/>
+<ellipse cx="1197.33" cy="52.4066" rx="51.3333" ry="52.4066" fill="#CEDFA3"/>
+<path d="M1270 193.439C1270 230.652 1237.76 240.787 1198 240.787C1158.24 240.787 1126 230.652 1126 193.439C1126 156.226 1158.24 126.059 1198 126.059C1237.76 126.059 1270 156.226 1270 193.439Z" fill="#CEDFA3"/>
+<ellipse cx="1178" cy="114.728" rx="52" ry="49.5738" fill="#CEDFA3"/>
+<ellipse cx="1218" cy="114.728" rx="52" ry="49.5738" fill="#CEDFA3"/>
+<line x1="1198" y1="144.393" x2="1198" y2="305.393" stroke="#BCAB9A" stroke-width="10" stroke-linecap="round"/>
+</svg>
