@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="zh-tw">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>今天去哪玩?</title>
+    <link rel="icon" type="image/x-icon" href="./img/car.svg" />
+    <link href="./css/main.css" rel="stylesheet" />
+  </head>
+  <body>
+    <h1 class="title">今天去哪玩?</h1>
+    <div class="select_group">
+      <select id="city">
+        <option>縣市</option>
+        <option value="keelung">基隆市</option>
+        <option value="taipei">臺北市</option>
+        <option value="newTaipei">新北市</option>
+        <option value="taoyuan">桃園市</option>
+        <option value="hsinchuCounty">新竹縣</option>
+        <option value="hsinchu">新竹市</option>
+        <option value="miaoli">苗栗縣</option>
+        <option value="taichung">臺中市</option>
+        <option value="changhua">彰化縣</option>
+        <option value="nantou">南投縣</option>
+        <option value="yunlin">雲林縣</option>
+        <option value="chiayi">嘉義市</option>
+        <option value="chiayiCounty">嘉義縣</option>
+        <option value="tainan">臺南市</option>
+        <option value="kaohsiung">高雄市</option>
+        <option value="pingtung">屏東縣</option>
+        <option value="taitung">臺東縣</option>
+        <option value="hualien">花蓮縣</option>
+        <option value="yilan">宜蘭縣</option>
+        <option value="penghu">澎湖縣</option>
+        <option value="kinmen">金門縣</option>
+        <option value="lienchiang">連江縣</option>
+      </select>
+      <select id="region">
+        <option>地區</option>
+      </select>
+      <button id="go">出發!</button>
+    </div>
+    <div class="result">
+      <select id="name">
+        <option>來去看看吧!</option>
+      </select>
+    </div>
+    <p id="description"></p>
+    <div class="pc_img">
+      <img src="./img/pc_bg-tree.svg" id="pc_bg-tree" />
+      <img src="./img/pc_bg-car.gif" id="pc_bg-car" />
+    </div>
+    <div class="phone_img">
+      <img src="./img/phone_bg-tree.svg" id="phone_bg-tree" />
+      <img src="./img/phone_bg-car.gif" id="phone_bg-car" />
+    </div>
+    <!-- <img src="./img/top_pc.svg" id="top-btn" /> -->
+    <script src="./js/jquery-3.6.1.min.js"></script>
+    <script src="./js/main.js"></script>
+  </body>
+</html>
