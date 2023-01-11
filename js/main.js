@@ -63225,7 +63225,7 @@ $("#region").change(function () {
 $("#name").change(function () {
   var nameVal = $(this).val();
   var nameStr = "";
-  for (i = 1; i < resultAddr.length; i++) {
+  for (i = 0; i < resultAddr.length; i++) {
     if (resultAddr[i].Name == "來去看看吧!") {
       nameStr = "";
     } else if (resultAddr[i].Name == nameVal) {
